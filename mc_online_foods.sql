@@ -101,9 +101,9 @@ CREATE TABLE `person` (
 --
 
 INSERT INTO `person` (`fname`, `lname`, `phone_no`, `email`, `address`, `serial_no`) VALUES
-('chan', 'ko', '8171234567', 'chan@gmail.com', '6233 claire dr', 10),
+('chan', 'ko', '8171234567', 'chan@gmail.com', '5555 claire dr', 10),
 ('ali', 'sharifa', '911', 'TA@gmail.com', 'uta', 12),
-('meelan', 'ki', '8171234567', 'meelan@gmail.com', '6233 claire dr', 28);
+('meelan', 'ki', '8171234567', 'meelan@gmail.com', '5555 claire dr', 28);
 
 -- --------------------------------------------------------
 
